@@ -6,6 +6,8 @@ using namespace std;
 #define rep(i, n) for (int i = 0; i < (int)(n); i++)
 #define Sort(a) sort(a.begin(), a.end())
 
+//解法は思いついたけど，Rangecheckで時間を溶かしてしまった問題
+
 
 int main(){
     int h,w,x,y;
